@@ -12,6 +12,7 @@ Peformed EDA and tested multiple linear models to find which model best suited f
       * Observations made about dataset
    * Measuring correlation between values
    * Visualizations (Using Seaborn/Matplotlib)
+   * Machine Learning
 * Tools/packages:
    * Python
    * Jupyter
