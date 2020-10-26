@@ -33,5 +33,9 @@ Peformed EDA and tested multiple linear models to find which model best suited f
    * K-Nearest Neighbors Regressor
    * Gaussian Naive Bayes
 
+## Images:
+
+## Conclusion: 
+Based on the models tested, Random Forest Regressor had the lowest error, and thus would be the most preferable model for use in this situation.
 
 
