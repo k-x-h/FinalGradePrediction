@@ -30,6 +30,6 @@ Performed EDA and tested multiple linear models to find which model best suited 
    * Gaussian Naive Bayes
 ## Images
 An example of some of the visualizations that are included in this project.
-![](https://im2.ezgif.com/tmp/ezgif-2-acd45f73a0c9.gif)
+![](https://github.com/k-x-h/FinalGradePrediction/blob/main/images.gif)
 ## Conclusion
 Based on the models tested, Random Forest Regressor had the lowest error, and thus would be the most preferable model for use in this situation.
