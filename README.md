@@ -29,7 +29,8 @@ Performed EDA and tested multiple linear models to find which model best suited 
    * K-Nearest Neighbors Regressor
    * Gaussian Naive Bayes
 ## Images
-An example of some of the visualizations that are included in this project.
+An example of some of the visualizations that are included in this project:
+
 ![](https://github.com/k-x-h/FinalGradePrediction/blob/main/images.gif)
 ## Conclusion
 Based on the models tested, Random Forest Regressor had the lowest error, and thus would be the most preferable model for use in this situation.
