@@ -29,7 +29,7 @@ Performed EDA and tested multiple models to find which model best suited for the
    * K-Nearest Neighbors Regressor
    * Gaussian Naive Bayes
 ## Images
-An example of some of the visualizations that are included in this project:
+An example of some of the visualizations that are included in this project (utilizing Seaborn):
 
 ![](https://github.com/k-x-h/FinalGradePrediction/blob/main/images.gif)
 ## Conclusion
